@@ -1,0 +1,19 @@
+# Schimba PROJECT_NAME cu numele proiectului
+PROJECT_NAME:  
+        # Schimba APP_NAME1 cu numele aplicatiei
+        APP_NAME1:
+
+            - view_name: NUME_VIEW
+              url_path_name: NUME_URL
+              template_name: NUME_TEMPLATE
+            - view_name: NUME_VIEW2
+              url_path_name: NUME_URL2
+              template_name: NUME_TEMPLATE2
+
+        # Schimba APP_NAME2 cu numele aplicatiei
+        APP_NAME2:
+            - view_name: NUME_VIEW3
+              url_path_name: NUME_URL3
+              template_name: NUME_TEMPLATE3
+
+        # Mai adauga aplicatii si view-uri in acest fel
